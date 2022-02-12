@@ -1,12 +1,12 @@
-# Minimal-Mistakes for Atom UI
+# Minimal-Mistakes for Atom
 
-> A dark theme for Atom UI
+> A dark theme for Atom
 
-![Screenshot](https://github.com/Minimal-Mistakes/atom/blob/master/screenshot.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/minimal-mistakes/atom/master/screenshot.png)
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/minimal-mistakes/kitty/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/minimal-mistakes/atom/graphs/contributors).
 
 | [![Minimal-Mistakes](https://avatars.githubusercontent.com/u/99121492?s=125)](https://github.com/Minimal-Mistakes) |
 | ------------------------------------------------------------------------------------------------------------------ |
