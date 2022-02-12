@@ -1,0 +1,11 @@
+{
+  "name": "minimal-mistakes-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Minimal-Mistakes Syntax theme for Atom",
+  "license": "GPL-TRC",
+  "repository": "https://github.com/Minimal-Mistakes/Atom-Syntax",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}

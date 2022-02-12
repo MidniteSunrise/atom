@@ -1,0 +1,11 @@
+{
+  "name": "minimal-mistakes-ui",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "Minimal-Mistakes UI theme for Atom",
+  "license": "GPL-TRC",
+  "repository": "https://github.com/Minimal-Mistakes/Atom-UI",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}
