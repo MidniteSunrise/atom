@@ -10,8 +10,8 @@ Alternatively, if you are a git user, you can install the theme and keep up to d
 
 ```
 git clone https://github.com/Minimal-Mistakes/atom.git ~/.cache/atom/
-cp ~/.cache/atom/minimal-mistakes-ui ~/.atom/packages/minimal-mistakes-ui
-cp ~/.cache/atom/minimal-mistakes-syntax ~/.atom/packages/minimal-mistakes-syntax
+cp -r ~/.cache/atom/minimal-mistakes-ui ~/.atom/packages/minimal-mistakes-ui
+cp -r ~/.cache/atom/minimal-mistakes-syntax ~/.atom/packages/minimal-mistakes-syntax
 ```
 
 #### Activating theme
