@@ -4,7 +4,7 @@
 
 ## Install
 
-All instructions can be found at [minimal-mistakes.xyz/atom](https://minimal-mistakes.xyz/apps/code-editors/atom/).
+All instructions can be found at [minimalmistakes.org/atom](https://minimalmistakes.org/apps/code-editors/atom/).
 
 ## Team
 

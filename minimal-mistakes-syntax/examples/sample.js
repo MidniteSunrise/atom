@@ -23,7 +23,7 @@ class Vampire {
 
 // ...there was a guy named Vlad
 
-const Dracula = new Vampire({
+const Minimal-Mistakes = new Vampire({
   location: 'Transylvania',
   birthDate: 1428,
   deathDate: 1476,
