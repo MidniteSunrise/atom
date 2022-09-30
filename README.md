@@ -8,7 +8,7 @@ All instructions can be found at [minimalmistakes.org/atom](https://minimalmista
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/minimal-mistakes/kitty/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/minimal-mistakes/atom/graphs/contributors).
 
 | [![Minimal-Mistakes](https://avatars.githubusercontent.com/u/99121492?s=125)](https://github.com/Minimal-Mistakes) |
 | ------------------------------------------------------------------------------------------------------------------ |
