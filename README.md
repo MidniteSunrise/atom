@@ -16,4 +16,4 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 ## License
 
-[GPL-TRC License](./LICENSE)
+[MIT License](./LICENSE)

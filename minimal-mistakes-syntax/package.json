@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "1.0.0",
   "description": "Minimal-Mistakes Syntax theme for Atom",
-  "license": "GPL-TRC",
+  "license": "MIT",
   "repository": "https://github.com/Minimal-Mistakes/Atom-Syntax",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
